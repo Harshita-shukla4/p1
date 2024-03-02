@@ -1,0 +1,60 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    background-image: url(21412520-a-place-for-meditation-refreshing-mind-and-body.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.contain{
+    width: 300px;
+    height: 400px;
+    background-color:black;
+    text-align: center;
+    color:white;
+  margin-left: 36%;
+  margin-top: 7%;
+}
+.contain.text{
+    position: relative;
+    top: 7%;
+
+}
+.inp1{
+    border: none;
+    background-color: black;
+    color: aliceblue;
+    border-bottom: 3px solid white;
+    width: 250px;
+    font-size: 20px;
+    margin-top: 40px;
+    outline: none;
+
+
+}
+p{
+    margin-top: 30px;
+    font-size:20px;
+
+
+}
+p span{
+    color: aqua;
+}
+.text button{
+    width: 250px;
+    height: 44px;
+    background-color: aqua;
+    color: black;
+    border: none;
+    font-size: 22px;
+    border-radius: 25px;
+    margin-top: 30px;
+
+}
+button:hover{
+    border: 3px solid black;
+    background-color: white;
+
+}
